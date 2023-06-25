@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML Editor", "HTML Editor\HTML Editor.csproj", "{E8139300-F6B0-432F-9CFC-109A212710DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8139300-F6B0-432F-9CFC-109A212710DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8139300-F6B0-432F-9CFC-109A212710DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8139300-F6B0-432F-9CFC-109A212710DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8139300-F6B0-432F-9CFC-109A212710DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F4DF048-9B7F-4D54-B0B6-5D66AEF1641E}
+	EndGlobalSection
+EndGlobal
